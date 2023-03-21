@@ -1,4 +1,4 @@
-# keebgrab
+# keebgrab ⌨️🔍
 
 `keebgrab` is a simple keylogger for X11 based desktops.
 
@@ -12,7 +12,7 @@
 ## Non features
 
 * Mouse movements and buttons are not logged.
-* Wayland is not supported. While not completely immune to keyloggers, it offers much better window event isolation.
+* [Wayland](https://en.wikipedia.org/wiki/Wayland_(protocol)) is not supported. While not completely immune to keyloggers, it offers much better event isolation.
 
 ## License
 
